@@ -5,5 +5,5 @@
   
 **OpenV2K — Voice Zero-Crossing Pulse Transmitter**  
 Captures microphone audio, conditions it for human speech, detects every
-zero-crossing (of the audio waveform), and emits a configurable-width pulse stream through a
+zero-crossing (of the audio waveform, across the x-axis), and emits a configurable-width pulse stream through a
 HackRF One SDR via gr-osmosdr.
