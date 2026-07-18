@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on: the core software for the OpenV2K project
+- 🔭 I’m currently working on: the core software for the [OpenV2K](https://www.reddit.com/r/OpenV2K/) project
 - 💬 Ask me about: how to punch Nazis really hard
 - 📫 How to reach me: rrab@tuta.com
   
