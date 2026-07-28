@@ -6,6 +6,9 @@
 Captures microphone audio, or generates eSpeak TTS voice; conditions the input with signal processing filters; detects every
 zero-crossing of the audio waveform, across the x-axis (as depicted in profile thumbnail); and emits a configurable-width pulse stream through a
 HackRF One SDR via gr-osmosdr, or saves the raw IQ samples to disk, and generates a waterfall graph image.  
+
+Please place any outrage you feel [where it's most appropriate](https://michaelebybarr.substack.com/p/our-perverse-legal-system).  
+I have not become death, destroyer of worlds, for disinfecting with sunlight, what came before I was born. I'm not the assholes who have developed similar capabilities in secret, for the last 30-50 years; who then deployed classified R&D, on unsuspecting civilians, [like me](https://rrab.substack.com/p/why-the-openv2k-project-exists).
   
 ![DiagramSplash](https://github.com/OpenV2K/Sandbox/blob/main/_diagram_openV2K_github.png?raw=true)  
   
