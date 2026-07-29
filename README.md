@@ -8,7 +8,7 @@ zero-crossing of the audio waveform, across the x-axis (as depicted in profile t
 HackRF One SDR via gr-osmosdr, or saves the raw IQ samples to disk, and generates a waterfall graph image.  
 
 Please place any outrage you feel [where it's most appropriate](https://michaelebybarr.substack.com/p/our-perverse-legal-system). Do you mind that I'm doing praxis over here?  
-This project's ultimate end goal, is both safe, with microwave absorbing foam acting as a transducer, instead of a human cranium (so observers can still hear the output, *without* the brain damage potential); and legal, when transmitting on HAM bands, with valid license.  
+This project's ultimate end goal, is both safe, with microwave absorbing foam acting as a [transducer](https://en.wikipedia.org/wiki/Transducer), instead of a human cranium (so observers can still hear the output, *without* the brain damage potential); and legal, when transmitting on HAM bands, with valid license.  
 I have not become death, destroyer of worlds, for disinfecting with sunlight, what came before I was born. I'm not the assholes who have developed similar capabilities in secret, for the last 30-50 years; who then deployed classified R&D, on unsuspecting civilians, [like me](https://rrab.substack.com/p/why-the-openv2k-project-exists).
   
 ![DiagramSplash](https://github.com/OpenV2K/Sandbox/blob/main/_diagram_openV2K_github.png?raw=true)  
