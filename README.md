@@ -6,6 +6,7 @@
 Captures microphone audio, or generates eSpeak TTS voice; conditions the input with signal processing filters; detects every
 zero-crossing of the audio waveform, across the x-axis (as depicted in profile thumbnail); and emits a configurable-width pulse stream through a
 HackRF One SDR via gr-osmosdr, or saves the raw IQ samples to disk, and generates a waterfall graph image.  
+Check my Sandbox for screens and pre-[alpha](https://en.wikipedia.org/wiki/Software_testing#Alpha_testing) software: https://github.com/OpenV2K/Sandbox
 
 Please place any outrage you feel [where it's most appropriate](https://michaelebybarr.substack.com/p/our-perverse-legal-system). Do you mind that I'm doing praxis over here?  
 This project's ultimate end goal, is both safe, with microwave absorbing foam acting as a [transducer](https://en.wikipedia.org/wiki/Transducer), instead of a human cranium (so observers can still hear the output, *without* the brain damage potential); and legal, when transmitting on HAM bands, with valid license.  
