@@ -1,5 +1,5 @@
 - 🔭 I’m currently working on: the core software for the [OpenV2K](https://www.reddit.com/r/OpenV2K/) project
-- 🕘 As of Version 126, I've invested about a standard 40hr work week of my time
+- 🕘 As of Version 126, I've invested about one standard 40hr work week of my time
 - 💬 Ask me about: how to punch Nazis really hard
 - 📫 How to reach me: rrab@tuta.com
   
