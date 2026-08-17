@@ -7,7 +7,8 @@ Captures microphone audio, or generates eSpeak TTS voice; conditions the input w
 zero-crossing of the audio waveform, across the x-axis (as depicted in profile thumbnail); and emits a configurable-width pulse stream through a HackRF SDR via gr-osmosdr, or saves raw IQ samples to disk, and generates a "waterfall" [spectrogram](https://en.wikipedia.org/wiki/Spectrogram) image.  
   
   ![StandBackImTryingScience](https://github.com/OpenV2K/Sandbox/blob/main/_emot-science.gif?raw=true)  **Check the Sandbox for screenshots and functional [pre-alpha](https://en.wikipedia.org/wiki/Software_testing#Alpha_testing) software**: https://github.com/OpenV2K/Sandbox  
-
+  See the Tutorial to reproduce my environment and get started: https://github.com/OpenV2K/Sandbox/tree/main/Tutorial  
+  
 **Implemented Features**: Audio Waveform Zero-Crossing Detection, SDR Pulse Modulation Output, Raw IQ Recording, Waterfall Spectrogram Generation, Live Microphone Input, eSpeak/MBROLA Text-To-Speech Engine, Signal Conditioning Filters, Noise Filters, Pulse Shaping Filters, Rectangular Pulses, Duty Cycle Meters, Adjustable Pulse Width, Adjustable High Pass and Low Pass Filters, Automatic High Power Calculator, Event Log, Tooltips, Dependency Checks, and 49 Languages Supported.  
   
 Please place any outrage you feel [where it's most appropriate](https://michaelebybarr.substack.com/p/our-perverse-legal-system). Do you mind that I'm doing praxis over here?  
