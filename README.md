@@ -4,7 +4,7 @@
   
 **OpenV2K — Audio Waveform Zero-Crossing Pulse Stream Generator**  
 Captures microphone audio, or generates eSpeak TTS voice; conditions the input with signal processing filters; detects every
-zero-crossing of the audio waveform, across the x-axis (as depicted in profile thumbnail); and emits a configurable-width pulse stream through a HackRF SDR via gr-osmosdr, or saves the raw IQ samples to disk, and generates a "waterfall" [spectrogram](https://en.wikipedia.org/wiki/Spectrogram) image.  
+zero-crossing of the audio waveform, across the x-axis (as depicted in profile thumbnail); and emits a configurable-width pulse stream through a HackRF SDR via gr-osmosdr, or saves raw IQ samples to disk, and generates a "waterfall" [spectrogram](https://en.wikipedia.org/wiki/Spectrogram) image.  
   
   ![StandBackImTryingScience](https://github.com/OpenV2K/Sandbox/blob/main/_emot-science.gif?raw=true)  **Check the Sandbox for screenshots and functional [pre-alpha](https://en.wikipedia.org/wiki/Software_testing#Alpha_testing) software**: https://github.com/OpenV2K/Sandbox  
 
