@@ -3,7 +3,7 @@
 OpenV2K is an open-source software application that converts arbitrary audio — including natural
 speech — into a pulse-modulated radio-frequency (RF) waveform, transmitted via a software-defined
 radio (SDR). The project's signal design is directly inspired by the historical microwave-auditory-effect
-(MAE) literature, most notably [Sharp](https://grokipedia.com/page/joseph_c_sharp) and Grove's 1975 demonstration that appropriately pulse-
+(MAE) literature, most notably [Sharp](https://grokipedia.com/page/joseph_c_sharp) and Grove's 1975 demonstration, that appropriately pulse-
 modulated microwave energy could convey intelligible words, building on [Frey](https://mudita.com/community/blog/allan-frey-a-pioneer-of-radiation-research/)'s earlier work.  
   
 The app captures microphone audio, or generates eSpeak TTS voice; conditions the input with signal processing filters; detects every
