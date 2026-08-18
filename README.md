@@ -22,6 +22,7 @@ Audio Waveform Zero-Crossing Detection, SDR Pulse Modulation Output, Raw IQ Reco
 
 # Compact Qt5 GUI
 All GUI descriptions, text labels, and tooltips, automatically translate, when selecting another language.  
+You will need to download the Translation.xml file from the Sandbox, and place it in the same directory.  
 Use the language dropdown in the upper left corner. When available, a regional accent dropdown is shown.  
 Language selection, also selects which eSpeak/MBROLA language voice pack to use for TTS, automatically.
   
