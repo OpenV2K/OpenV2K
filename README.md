@@ -21,7 +21,7 @@ https://github.com/OpenV2K/Sandbox/tree/main/Tutorial
 Audio Waveform Zero-Crossing Detection, SDR Pulse Modulation Output, Raw IQ Recording, Waterfall Spectrogram Generation, Live Microphone Input, eSpeak/MBROLA Text-To-Speech Engine, Signal Conditioning Filters, Noise Filters, Pulse Shaping Filters, Rectangular Pulses, Duty Cycle Meters, Adjustable Pulse Width, Adjustable High Pass and Low Pass Filters, Automatic High Power Calculator, Event Log, Tooltips, Dependency Checks, and 49 Languages Supported.  
 
 # Compact Qt5 GUI (Fully Translated)
-<img src="https://github.com/OpenV2K/Sandbox/blob/main/Screenshots/Screenshot%20From%202026-08-18%2013-46-13.png" width="50%"> <img src="https://github.com/OpenV2K/Sandbox/blob/main/Screenshots/Screenshot%20From%202026-08-18%2013-51-49.png" width="50%">
+<img src="https://github.com/OpenV2K/Sandbox/blob/main/Screenshots/Screenshot%20From%202026-08-18%2013-46-13.png" width="33%"> <img src="https://github.com/OpenV2K/Sandbox/blob/main/Screenshots/Screenshot%20From%202026-08-18%2013-51-49.png" width="33%">
 
 # Project Block Diagram
 ![DiagramSplash](https://github.com/OpenV2K/Sandbox/blob/main/_diagram_openV2K_github.png?raw=true)  
