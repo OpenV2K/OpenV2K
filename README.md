@@ -26,7 +26,7 @@ You will need to download the Translation.xml file from the Sandbox, and place i
 Use the language dropdown in the upper left corner. When available, a regional accent dropdown is shown.  
 Language selection, also selects which eSpeak/MBROLA language voice pack to use for TTS, automatically.
   
-<img src="https://github.com/OpenV2K/Sandbox/blob/main/Screenshots/Screenshot%20From%202026-08-18%2013-46-13.png" width="33%"> > <img src="https://github.com/OpenV2K/Sandbox/blob/main/Screenshots/Screenshot%20From%202026-08-18%2013-51-49.png" width="32%">
+<img src="https://github.com/OpenV2K/Sandbox/blob/main/Screenshots/Screenshot%20From%202026-08-18%2013-46-13.png" width="43%"> > <img src="https://github.com/OpenV2K/Sandbox/blob/main/Screenshots/Screenshot%20From%202026-08-18%2013-51-49.png" width="42%">
 
 # Project Block Diagram
 ![DiagramSplash](https://github.com/OpenV2K/Sandbox/blob/main/_diagram_openV2K_github.png?raw=true)  
