@@ -30,7 +30,7 @@ Language selection, also selects which eSpeak/MBROLA language voice pack to use 
 # Project Block Diagram
 ![DiagramSplash](https://github.com/OpenV2K/Sandbox/blob/main/_diagram_openV2K_github.png?raw=true)  
   
-# Acoustic Transduction From Microwave Absorbing Foam
+# Microwave Absorbing Foam: Acoustic Transducer
 Excerpt from Chapter 7.2.1, Page 178, Auditory Effects of Microwave Radiation:  
 > In attempting to elucidate the mechanism responsible for microwave-induced auditory sensation, a microwave exposure system was set up in 1973 at the Walter Reed Army Institute of Research in Maryland. Investigators found that carbon-impregnated polyurethane microwave absorber (Eccosorb WG4, Emerson and Cuming) acted as a transducer from microwave energy to acoustic energy [Sharp et al., 1974]. If the microwave absorber was placed between the human subject and the pulsed microwave source, the apprent locus of the audible click moved from the observer's head to the absorber. Using a microphone and sound level meter, sounds produced by pulsed microwaves in absorbers of different sizes and shapes were detectable for absorber sizes as small as 4 mm square by 2 mm thick. Several other types of microwave absorbers also produced audible sound. However, aluminum foil had to be crumbled before audible sound was detected from it. Thus, the observed sonic phenomenon implicated a connection of microwave absorbtion to pulse-induced auditory sensation in humans, but also provided a counterexample against radiation pressure as an operating interaction mechanism.  
   
