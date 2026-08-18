@@ -9,11 +9,10 @@ modulated microwave energy could convey intelligible words.
 The app captures microphone audio, or generates eSpeak TTS voice; conditions the input with signal processing filters; detects every
 zero-crossing of the audio waveform, across the x-axis (as depicted in profile thumbnail); and emits a configurable-width pulse stream through a HackRF SDR via gr-osmosdr, or saves raw IQ samples to disk, and generates a "waterfall" [spectrogram](https://en.wikipedia.org/wiki/Spectrogram).  
 
-# Sandbox
+# Sandbox / Tutorial
 ![StandBackImTryingScience](https://github.com/OpenV2K/Sandbox/blob/main/_emot-science.gif?raw=true)  **For screenshots and functional [pre-alpha](https://en.wikipedia.org/wiki/Software_testing#Alpha_testing) Python software**: https://github.com/OpenV2K/Sandbox  
-
-# Tutorial
-Tell me what you want to know, and I'll integrate your feedback.  
+  
+Tell me what you want to know, and I'll integrate your constructive feedback.  
 See the Tutorial to reproduce my environment and get started:  
 https://github.com/OpenV2K/Sandbox/tree/main/Tutorial  
 
