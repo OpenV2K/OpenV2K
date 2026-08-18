@@ -19,7 +19,7 @@ https://github.com/OpenV2K/Sandbox/tree/main/Tutorial
 # Features Implemented
 Audio Waveform Zero-Crossing Detection, SDR Pulse Modulation Output, Raw IQ Recording, Waterfall Spectrogram Generation, Live Microphone Input, eSpeak/MBROLA Text-To-Speech Engine, TTS/SDR Output Length Comparator, Signal Conditioning Filters, Noise Filters, Pulse Shaping Filters, Rectangular Pulses, Duty Cycle Meters, Adjustable Pulse Width, Adjustable High Pass and Low Pass Filters, Automatic High Power Calculator, Event Log, Tooltips, Dependency Checks, and 49 Languages Supported.  
 
-# Compact Qt5 GUI
+# Compact PyQt5 GUI
 All GUI descriptions, text labels, and tooltips, automatically translate, when selecting another language.  
 You will need to download the Translation.xml file from the Sandbox, and place it in the same directory.  
 Use the language dropdown in the upper left corner. When available, a regional accent dropdown is shown.  
