@@ -27,7 +27,7 @@ Language selection, also selects which eSpeak/MBROLA language voice pack to use 
   
 <img src="https://github.com/OpenV2K/Sandbox/blob/main/Screenshots/Screenshot%20From%202026-08-18%2013-46-13.png" width="43%"> > <img src="https://github.com/OpenV2K/Sandbox/blob/main/Screenshots/Screenshot%20From%202026-08-18%2013-51-49.png" width="42%">  
   
-# GNU Radio Flowgraph (Build 160)
+# GNU Radio Companion Style Flowgraph ([160](https://github.com/OpenV2K/Sandbox/blob/main/Build_Archive/OpenV2K160.py))
 <img src="https://github.com/OpenV2K/Sandbox/blob/main/Tutorial/OpenV2K160_flowgraph2.svg">  
   
 # Project Scope Block Diagram
