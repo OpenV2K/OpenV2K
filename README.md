@@ -52,3 +52,5 @@ This project's ultimate end goal, is both safe, with microwave absorbing foam ac
 - 🔭 I’m currently working on: the core software for the [OpenV2K](https://www.reddit.com/r/OpenV2K/) project
 - 💬 Ask me about: how to punch Nazis really hard
 - 📫 How to reach me: rrab@tuta.com
+  
+Dear targets: In clinical terms, this is pulse modulation of the microwave auditory effect. In slang, this is "Voice To Skull", a one-way audio channel. This is not two-way [synthetic telepathy](https://www.nbcnews.com/id/wbna27162401), and never claimed to be. There were never any [brain-reading](https://en.wikipedia.org/wiki/Brain-reading) components. Many conflate "V2K" as having [thought identification](https://en.wikipedia.org/wiki/Brain-reading#Detecting_thoughts) capabilities. I think of them as muddying the water with [disinformation](https://en.wikipedia.org/wiki/Disinformation).
