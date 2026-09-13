@@ -2,19 +2,20 @@
 **Audio Waveform Zero-Crossing Pulse Stream Generator**  
 OpenV2K is an open-source Python application that converts arbitrary audio — including both natural
 speech (via live microphone), and [diphone synthesis](https://github.com/numediart/MBROLA) (via [text-to-speech engine](https://github.com/espeak-ng/espeak-ng)) — into pulse-modulated radio-frequency (RF) waveform. The signal chain can be used to transmit via a software-defined
-radio (SDR), or to save the raw IQ samples to disk, and generate [spectrograms](https://en.wikipedia.org/wiki/Spectrogram) automatically. Integrates toggled audio DSP filters, into a PyQt5 GUI, that's intended to be usable by technicians.  
+radio (SDR), or to save the raw IQ samples to disk, and generate [spectrograms](https://en.wikipedia.org/wiki/Spectrogram) automatically. Integrates toggled DSP filters, into a PyQt5 GUI, that's intended to be usable by technicians.  
   
-The project's signal chain is based on [microwave auditory effect](https://ieeexplore.ieee.org/document/9366412) literature, most notably [Sharp](https://grokipedia.com/page/joseph_c_sharp) and Grove's [demonstration published in 1975](https://en.wikipedia.org/wiki/Signal_modulation#Miscellaneous_modulation_techniques), that pulse-modulated microwave energy could convey intelligible words, building on [Frey](https://mudita.com/community/blog/allan-frey-a-pioneer-of-radiation-research/)'s work. The app currently integrates Sharp's modulation technique: detects every zero-crossing of the audio waveform, just as depicted in the GitHub profile thumbnail. Home users get to see, what made the US Army's ["V2K"](https://www.wired.com/2008/05/army-removes-pa/), and US Navy's ["MEDUSA"](https://en.wikipedia.org/wiki/MEDUSA_\(weapon\)), function.  
+The project's signal chain is based on [microwave auditory effect](https://ieeexplore.ieee.org/document/9366412) literature, most notably [Sharp](https://grokipedia.com/page/joseph_c_sharp) and Grove's [demonstration published in 1975](https://en.wikipedia.org/wiki/Signal_modulation#Miscellaneous_modulation_techniques), that pulse-modulated microwave energy could convey intelligible words, building on [Frey](https://mudita.com/community/blog/allan-frey-a-pioneer-of-radiation-research/)'s work. The app currently integrates Sharp's modulation technique: detects every zero-crossing of the audio waveform, just as depicted in the GitHub profile thumbnail. Home users get to see, what made the US Army's ["V2K"](https://www.wired.com/2008/05/army-removes-pa/), and US Navy's ["MEDUSA"](https://en.wikipedia.org/wiki/MEDUSA_\(weapon\)), function, in real-time.  
   
 This prototype was built [on the shoulders of giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants). Thank you to [SME](https://en.wikipedia.org/wiki/Subject-matter_expert) biophysics researchers, that publicly released their work, 5 to 50 years ago; the FOSS software package developers; and the open-source SDR hardware platform developers.
-   
+  
 # Sandbox / Tutorial
 ![StandBackImTryingScience](https://github.com/OpenV2K/Sandbox/blob/main/_emot-science.gif?raw=true)  **For screenshots, video, and functional [pre-alpha](https://en.wikipedia.org/wiki/Software_testing#Alpha_testing) Python software**: https://github.com/OpenV2K/Sandbox  
   
 Tell me what you want to know, and I'll integrate your constructive feedback.  
+Intended to run on any old laptop that can [install Ubuntu 26 Linux](https://ubuntu.com/desktop/docs/en/latest/tutorial/install-ubuntu-desktop/).  
 See the Tutorial to reproduce my environment and get started:  
 https://github.com/OpenV2K/Sandbox/tree/main/Tutorial  
-
+  
 # Features Implemented
 Audio Waveform Zero-Crossing Detection, SDR Pulse Modulation Output, Raw IQ Recording, Waterfall Spectrogram Generation, Live Microphone Input, eSpeak/MBROLA Text-To-Speech Engine, TTS/SDR Output Length Comparator, Signal Conditioning Filters, Noise Filters, Pulse Shaping Filters, Rectangular Pulses, Duty Cycle Meters, Adjustable Pulse Width, Adjustable High Pass and Low Pass Filters, Automatic High Power Calculator, Event Log, Tooltips, Dependency Checks, and 49 Languages Supported.  
 
