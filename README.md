@@ -9,7 +9,7 @@ The project's signal chain is based on [microwave auditory effect](https://ieeex
 This prototype was built [on the shoulders of giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants). Thank you to [SME](https://en.wikipedia.org/wiki/Subject-matter_expert) biophysics researchers, that publicly released their work, 5 to 50 years ago; the FOSS software package developers; and the open-source SDR hardware platform developers.
   
 # Sandbox / Tutorial
-![StandBackImTryingScience](https://github.com/OpenV2K/Sandbox/blob/main/_emot-science.gif?raw=true)  **For screenshots, video, and functional [pre-alpha](https://en.wikipedia.org/wiki/Software_testing#Alpha_testing) Python software**: https://github.com/OpenV2K/Sandbox  
+![StandBackImTryingScience](https://github.com/OpenV2K/Sandbox/blob/main/_emot-science.gif?raw=true)  **For screenshots, [video](https://github.com/OpenV2K/Sandbox/tree/main/Video), and functional [pre-alpha](https://en.wikipedia.org/wiki/Software_testing#Alpha_testing) Python software**: https://github.com/OpenV2K/Sandbox  
   
 Tell me what you want to know, and I'll integrate your constructive feedback.  
 Intended to run on any old laptop that can [install Ubuntu 26 Linux](https://ubuntu.com/desktop/docs/en/latest/tutorial/install-ubuntu-desktop/).  
