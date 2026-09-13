@@ -1,14 +1,15 @@
 # OpenV2K Overview
 **Audio Waveform Zero-Crossing Pulse Stream Generator**  
-OpenV2K is an open-source software application that converts arbitrary audio — including natural
-speech — into a pulse-modulated radio-frequency (RF) waveform, transmitted via a software-defined
-radio (SDR). The project's signal design is directly inspired by the historical microwave-auditory-effect
-(MAE) literature, most notably [Sharp](https://grokipedia.com/page/joseph_c_sharp) and Grove's 1975 demonstration, that appropriately pulse-
-modulated microwave energy could convey intelligible words, building on [Frey](https://mudita.com/community/blog/allan-frey-a-pioneer-of-radiation-research/)'s earlier work.  
+OpenV2K is an open-source Python application that converts arbitrary audio — including both natural
+speech (via live microphone), and [diphone synthesis](https://github.com/numediart/MBROLA) (via [text-to-speech engine](https://github.com/espeak-ng/espeak-ng)) — into pulse-modulated radio-frequency (RF) waveform. The signal chain can be used to transmit via a software-defined
+radio (SDR), or to save the raw IQ samples to disk, and generate [spectrograms](https://en.wikipedia.org/wiki/Spectrogram) automatically. Integrates toggled audio DSP filters, into a compact PyQt5 GUI, that's intended to be usable by amateur radio technicians.  
   
-The app captures microphone audio, or generates eSpeak TTS voice; conditions the input with signal processing filters; detects every
-zero-crossing of the audio waveform, across the x-axis (as depicted in profile thumbnail); and emits a configurable-width pulse stream through a HackRF SDR via gr-osmosdr, or saves raw IQ samples to disk, and generates a "waterfall" [spectrogram](https://en.wikipedia.org/wiki/Spectrogram).  
-
+The project's signal design is directly inspired by microwave auditory effect literature, most notably [Sharp](https://grokipedia.com/page/joseph_c_sharp) and Grove's [demonstration published in 1975](https://en.wikipedia.org/wiki/Signal_modulation#Miscellaneous_modulation_techniques), that appropriately pulse-
+modulated microwave energy could convey intelligible words, building on [Frey](https://mudita.com/community/blog/allan-frey-a-pioneer-of-radiation-research/)'s work.  
+The app is exciting, because it integrates Sharp's modulation technique: it detects every zero-crossing of the audio waveform, just as is depicted in the GitHub profile thumbnail. Home users get to see what made the US Army's ["V2K"](https://www.wired.com/2008/05/army-removes-pa/), and US Navy's ["MEDUSA"](https://en.wikipedia.org/wiki/MEDUSA_\(weapon\)), possible.  
+  
+This prototype was built [on the shoulders of giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants). Thank you to the [SME](https://en.wikipedia.org/wiki/Subject-matter_expert) biophysics researchers, that publicly released their work, from 5 to 50 years ago; the open-source software package developers; and the open-source SDR hardware platform developers.
+   
 # Sandbox / Tutorial
 ![StandBackImTryingScience](https://github.com/OpenV2K/Sandbox/blob/main/_emot-science.gif?raw=true)  **For screenshots and functional [pre-alpha](https://en.wikipedia.org/wiki/Software_testing#Alpha_testing) Python software**: https://github.com/OpenV2K/Sandbox  
   
