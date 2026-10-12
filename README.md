@@ -16,6 +16,11 @@ Intended to run on any old laptop that can [install Ubuntu 26 Linux](https://ubu
 See the Tutorial to reproduce my environment and get started:  
 https://github.com/OpenV2K/Sandbox/tree/main/Tutorial  
   
+# Web App: Live In Your Browser
+[Manuel Polo](https://github.com/mahapo) recently ported this codebase, and reforged it into a web app!  
+See their code repo here: https://github.com/mahapo/zcp-transmitter/  
+Run in your browser: https://mahapo.github.io/zcp-transmitter/  
+  
 # Features Implemented
 Audio Waveform Zero-Crossing Detection, SDR Pulse Modulation Output, Raw IQ Recording, Waterfall Spectrogram Generation, Live Microphone Input, eSpeak/MBROLA Text-To-Speech Engine, TTS/RawIQ Output Length Comparator, Signal Conditioning Filters, Noise Filters, Pulse Shaping Filters, Rectangular Pulses, Duty Cycle Meters, Adjustable Pulse Width, Adjustable High Pass and Low Pass Filters, Automatic High Power Calculator, Event Log, Tooltips, Dependency Checks, and 49 Languages Supported.  
 
@@ -53,4 +58,4 @@ This project's ultimate end goal, is both safe, with microwave absorbing foam ac
 - 💬 Ask me about: how to punch Nazis really hard
 - 📫 How to reach me: rrab@tuta.com
   
-Dear targets: In clinical terms, this is pulse modulation of the microwave auditory effect. In slang, this is "Voice To Skull", a one-way audio channel. This is not two-way [synthetic telepathy](https://www.nbcnews.com/id/wbna27162401), and never claimed to be. There were never any [brain-reading](https://en.wikipedia.org/wiki/Brain-reading) components. Many conflate "V2K" as having [thought identification](https://en.wikipedia.org/wiki/Brain-reading#Detecting_thoughts) capabilities. I think of them as [disinformation](https://en.wikipedia.org/wiki/Disinformation) [artists](https://www.urbandictionary.com/define.php?term=bullshit+artist).
+Dear targets: In clinical terms, this is pulse modulation of the microwave auditory effect. In slang, this is "Voice To Skull", a one-way audio channel. This is not two-way [synthetic telepathy](https://www.nbcnews.com/id/wbna27162401), and never claimed to be. There were never any [brain-reading](https://en.wikipedia.org/wiki/Brain-reading) components. Many conflate "V2K" as having [thought identification](https://en.wikipedia.org/wiki/Brain-reading#Detecting_thoughts) capabilities. I think of them as [disinformation](https://en.wikipedia.org/wiki/Disinformation) [artists](https://www.urbandictionary.com/define.php?term=bullshit+artist), or those disinformed.
